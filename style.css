@@ -1,10 +1,9 @@
 * {
-  background: #ffffff;
+  background: white;
 }
 
 .text {
-        background: linear-gradient(to right, #02e659, #126130);
-        font-family: serif;
+        background: black;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
 }
