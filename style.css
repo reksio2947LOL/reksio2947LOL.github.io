@@ -1,5 +1,10 @@
+* {
+  background: linear-gradient(to right, #283c86, #45a247);
+}
+
 .text {
         background: linear-gradient(to right, #36d1dc, #5b86e5);
         font-family: 'Poppins', sans-serif;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
+}
